@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CustomersAPI_VS22.props" />
+</Project>

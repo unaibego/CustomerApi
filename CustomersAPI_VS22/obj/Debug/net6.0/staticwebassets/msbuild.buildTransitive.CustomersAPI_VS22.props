@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CustomersAPI_VS22.props" />
+</Project>
